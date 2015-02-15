@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails yelp: development" uuid="9e3e860a-930a-4fa2-91e6-23064c9359c8">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails yelp: test" uuid="643bc0aa-fb11-460d-a159-9bee8bef6fa8">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails yelp: production" uuid="6cbbd9ff-7b86-4a0a-acf7-820fd60675c8">
+      <first-sync>true</first-sync>
+      <user-name>yelp</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff3dfefdfe6dffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
